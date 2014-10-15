@@ -1,0 +1,21 @@
+@import "../base/styles.css";
+
+div.pilot-menu-item {
+    background: black;
+    color: white;
+}
+
+div.pilot-menu-item span.v-touchkit-navbutton-desc {
+    background: white;
+    color: black;
+}
+
+div.pilot-menu-item img.v-icon {
+    -webkit-filter: invert(100%);
+}
+
+div.pilot-menu-title {
+    background: deeppink;
+    color: chartreuse;
+}
+
